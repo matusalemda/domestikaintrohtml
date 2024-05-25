@@ -414,7 +414,7 @@ color: white;
                 }
                 @media(min-width: 280px) and (max-width: 800px){
                 .icone img{
-                width: calc(30% + 10px);
+                width: calc(20% + 10px);
                 height: auto;
                 margin-left: 15px;
                 }
